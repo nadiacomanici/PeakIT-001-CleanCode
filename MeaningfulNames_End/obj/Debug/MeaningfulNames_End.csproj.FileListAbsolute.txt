@@ -1,0 +1,6 @@
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_End\bin\Debug\MeaningfulNames_End.exe.config
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_End\bin\Debug\MeaningfulNames_End.exe
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_End\bin\Debug\MeaningfulNames_End.pdb
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_End\obj\Debug\MeaningfulNames_End.csproj.CoreCompileInputs.cache
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_End\obj\Debug\MeaningfulNames_End.exe
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_End\obj\Debug\MeaningfulNames_End.pdb

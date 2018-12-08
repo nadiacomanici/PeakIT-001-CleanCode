@@ -1,0 +1,15 @@
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\bin\Debug\MethodsReturnEarly_Begin.exe.config
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\bin\Debug\MethodsReturnEarly_Begin.exe
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\bin\Debug\MethodsReturnEarly_Begin.pdb
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MethodsReturnEarly_Begin.csprojResolveAssemblyReference.cache
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MainWindow.g.cs
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\App.g.cs
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MethodsReturnEarly_Begin_MarkupCompile.cache
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MethodsReturnEarly_Begin_MarkupCompile.lref
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MainWindow.baml
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MethodsReturnEarly_Begin.g.resources
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MethodsReturnEarly_Begin.Properties.Resources.resources
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MethodsReturnEarly_Begin.csproj.GenerateResource.Cache
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MethodsReturnEarly_Begin.csproj.CoreCompileInputs.cache
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MethodsReturnEarly_Begin.exe
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MethodsReturnEarly_Begin\obj\Debug\MethodsReturnEarly_Begin.pdb

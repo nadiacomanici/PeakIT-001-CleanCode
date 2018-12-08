@@ -1,0 +1,7 @@
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_Begin\bin\Debug\MeaningfulNames_Begin.exe.config
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_Begin\bin\Debug\MeaningfulNames_Begin.exe
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_Begin\bin\Debug\MeaningfulNames_Begin.pdb
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_Begin\obj\Debug\MeaningfulNames_Begin.csprojResolveAssemblyReference.cache
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_Begin\obj\Debug\MeaningfulNames_Begin.csproj.CoreCompileInputs.cache
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_Begin\obj\Debug\MeaningfulNames_Begin.exe
+c:\users\nadi_\source\repos\MethodsReturnEarly_Begin\MeaningfulNames_Begin\obj\Debug\MeaningfulNames_Begin.pdb
