@@ -1,0 +1,14 @@
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\bin\Debug\StrategiesForMethods_Begin.exe.config
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\bin\Debug\StrategiesForMethods_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\bin\Debug\StrategiesForMethods_Begin.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\MainWindow.g.cs
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\App.g.cs
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\StrategiesForMethods_Begin_MarkupCompile.cache
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\StrategiesForMethods_Begin_MarkupCompile.lref
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\MainWindow.baml
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\StrategiesForMethods_Begin.g.resources
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\StrategiesForMethods_Begin.Properties.Resources.resources
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\StrategiesForMethods_Begin.csproj.GenerateResource.Cache
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\StrategiesForMethods_Begin.csproj.CoreCompileInputs.cache
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\StrategiesForMethods_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\StrategiesForMethods_Begin\obj\Debug\StrategiesForMethods_Begin.pdb

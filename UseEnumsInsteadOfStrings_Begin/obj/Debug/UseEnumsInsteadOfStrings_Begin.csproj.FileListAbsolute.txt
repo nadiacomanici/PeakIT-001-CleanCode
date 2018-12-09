@@ -5,3 +5,9 @@ C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best C
 C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\UseEnumsInsteadOfStrings_Begin\obj\Debug\UseEnumsInsteadOfStrings_Begin.csproj.CoreCompileInputs.cache
 C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\UseEnumsInsteadOfStrings_Begin\obj\Debug\UseEnumsInsteadOfStrings_Begin.exe
 C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\UseEnumsInsteadOfStrings_Begin\obj\Debug\UseEnumsInsteadOfStrings_Begin.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\UseEnumsInsteadOfStrings_Begin\bin\Debug\UseEnumsInsteadOfStrings_Begin.exe.config
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\UseEnumsInsteadOfStrings_Begin\bin\Debug\UseEnumsInsteadOfStrings_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\UseEnumsInsteadOfStrings_Begin\bin\Debug\UseEnumsInsteadOfStrings_Begin.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\UseEnumsInsteadOfStrings_Begin\obj\Debug\UseEnumsInsteadOfStrings_Begin.csproj.CoreCompileInputs.cache
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\UseEnumsInsteadOfStrings_Begin\obj\Debug\UseEnumsInsteadOfStrings_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\UseEnumsInsteadOfStrings_Begin\obj\Debug\UseEnumsInsteadOfStrings_Begin.pdb
