@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategiesForMethods_End", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseEnumsInsteadOfStrings_End", "UseEnumsInsteadOfStrings_End\UseEnumsInsteadOfStrings_End.csproj", "{CE7FD66A-0DEA-4C90-84DA-7F0EBF825D0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependecyInjection_Begin", "DependecyInjection_Begin\DependecyInjection_Begin.csproj", "{D9552703-AE1E-451F-BD44-B7365CF42CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependecyInjection_End", "DependecyInjection_End\DependecyInjection_End.csproj", "{66033E34-2981-41A0-BC74-B723324114B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{CE7FD66A-0DEA-4C90-84DA-7F0EBF825D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE7FD66A-0DEA-4C90-84DA-7F0EBF825D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE7FD66A-0DEA-4C90-84DA-7F0EBF825D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9552703-AE1E-451F-BD44-B7365CF42CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9552703-AE1E-451F-BD44-B7365CF42CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9552703-AE1E-451F-BD44-B7365CF42CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9552703-AE1E-451F-BD44-B7365CF42CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66033E34-2981-41A0-BC74-B723324114B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66033E34-2981-41A0-BC74-B723324114B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66033E34-2981-41A0-BC74-B723324114B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66033E34-2981-41A0-BC74-B723324114B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

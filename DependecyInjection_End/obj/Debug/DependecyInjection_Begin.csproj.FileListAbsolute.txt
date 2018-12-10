@@ -1,0 +1,7 @@
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_Begin\bin\Debug\DependecyInjection_Begin.exe.config
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_Begin\bin\Debug\DependecyInjection_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_Begin\bin\Debug\DependecyInjection_Begin.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_Begin\obj\Debug\DependecyInjection_Begin.csprojResolveAssemblyReference.cache
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_Begin\obj\Debug\DependecyInjection_Begin.csproj.CoreCompileInputs.cache
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_Begin\obj\Debug\DependecyInjection_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_Begin\obj\Debug\DependecyInjection_Begin.pdb
