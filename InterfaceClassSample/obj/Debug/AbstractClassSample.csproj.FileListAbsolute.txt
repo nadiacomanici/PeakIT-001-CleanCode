@@ -1,7 +1,0 @@
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AbstractClassSample\bin\Debug\AbstractClassSample.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AbstractClassSample\bin\Debug\AbstractClassSample.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AbstractClassSample\bin\Debug\AbstractClassSample.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AbstractClassSample\obj\Debug\AbstractClassSample.csprojResolveAssemblyReference.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AbstractClassSample\obj\Debug\AbstractClassSample.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AbstractClassSample\obj\Debug\AbstractClassSample.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AbstractClassSample\obj\Debug\AbstractClassSample.pdb

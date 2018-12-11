@@ -1,12 +1,6 @@
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PolymorphismOverEnum\bin\Debug\PolymorphismOverEnum_Begin.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PolymorphismOverEnum\bin\Debug\PolymorphismOverEnum_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PolymorphismOverEnum\bin\Debug\PolymorphismOverEnum_Begin.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PolymorphismOverEnum\obj\Debug\PolymorphismOverEnum_Begin.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PolymorphismOverEnum\obj\Debug\PolymorphismOverEnum_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PolymorphismOverEnum\obj\Debug\PolymorphismOverEnum_Begin.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PolymorphismOverEnum_Begin\bin\Debug\PolymorphismOverEnum_Begin.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PolymorphismOverEnum_Begin\bin\Debug\PolymorphismOverEnum_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PolymorphismOverEnum_Begin\bin\Debug\PolymorphismOverEnum_Begin.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PolymorphismOverEnum_Begin\obj\Debug\PolymorphismOverEnum_Begin.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PolymorphismOverEnum_Begin\obj\Debug\PolymorphismOverEnum_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PolymorphismOverEnum_Begin\obj\Debug\PolymorphismOverEnum_Begin.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PolymorphismOverEnum_Begin\bin\Debug\PolymorphismOverEnum_Begin.exe.config
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PolymorphismOverEnum_Begin\bin\Debug\PolymorphismOverEnum_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PolymorphismOverEnum_Begin\bin\Debug\PolymorphismOverEnum_Begin.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PolymorphismOverEnum_Begin\obj\Debug\PolymorphismOverEnum_Begin.csproj.CoreCompileInputs.cache
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PolymorphismOverEnum_Begin\obj\Debug\PolymorphismOverEnum_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PolymorphismOverEnum_Begin\obj\Debug\PolymorphismOverEnum_Begin.pdb

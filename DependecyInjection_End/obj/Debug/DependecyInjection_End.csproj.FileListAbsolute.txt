@@ -1,14 +1,6 @@
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_End\bin\Debug\DependecyInjection_End.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_End\bin\Debug\DependecyInjection_End.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_End\bin\Debug\DependecyInjection_End.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_End\obj\Debug\DependecyInjection_End.csprojResolveAssemblyReference.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_End\obj\Debug\DependecyInjection_End.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_End\obj\Debug\DependecyInjection_End.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\DependecyInjection_End\obj\Debug\DependecyInjection_End.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\DependecyInjection_End\bin\Debug\DependecyInjection_End.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\DependecyInjection_End\bin\Debug\DependecyInjection_End.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\DependecyInjection_End\bin\Debug\DependecyInjection_End.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\DependecyInjection_End\obj\Debug\DependecyInjection_End.csprojResolveAssemblyReference.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\DependecyInjection_End\obj\Debug\DependecyInjection_End.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\DependecyInjection_End\obj\Debug\DependecyInjection_End.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\DependecyInjection_End\obj\Debug\DependecyInjection_End.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\DependecyInjection_End\bin\Debug\DependecyInjection_End.exe.config
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\DependecyInjection_End\bin\Debug\DependecyInjection_End.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\DependecyInjection_End\bin\Debug\DependecyInjection_End.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\DependecyInjection_End\obj\Debug\DependecyInjection_End.csproj.CoreCompileInputs.cache
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\DependecyInjection_End\obj\Debug\DependecyInjection_End.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\DependecyInjection_End\obj\Debug\DependecyInjection_End.pdb

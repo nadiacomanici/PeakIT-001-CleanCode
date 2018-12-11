@@ -1,7 +1,0 @@
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Best Code Practices for OOP in C#\BestCodingPractices\AvoidCodeDuplication_Start\bin\Debug\AvoidCodeDuplication_Start.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Best Code Practices for OOP in C#\BestCodingPractices\AvoidCodeDuplication_Start\bin\Debug\AvoidCodeDuplication_Start.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Best Code Practices for OOP in C#\BestCodingPractices\AvoidCodeDuplication_Start\bin\Debug\AvoidCodeDuplication_Start.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Best Code Practices for OOP in C#\BestCodingPractices\AvoidCodeDuplication_Start\obj\Debug\AvoidCodeDuplication_Start.csprojResolveAssemblyReference.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Best Code Practices for OOP in C#\BestCodingPractices\AvoidCodeDuplication_Start\obj\Debug\AvoidCodeDuplication_Start.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Best Code Practices for OOP in C#\BestCodingPractices\AvoidCodeDuplication_Start\obj\Debug\AvoidCodeDuplication_Start.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Best Code Practices for OOP in C#\BestCodingPractices\AvoidCodeDuplication_Start\obj\Debug\AvoidCodeDuplication_Start.pdb

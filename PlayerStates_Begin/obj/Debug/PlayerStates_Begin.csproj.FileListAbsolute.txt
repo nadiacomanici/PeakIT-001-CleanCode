@@ -1,13 +1,6 @@
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.csprojResolveAssemblyReference.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PlayerStates_Begin\bin\Debug\PlayerStates_Begin.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PlayerStates_Begin\bin\Debug\PlayerStates_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PlayerStates_Begin\bin\Debug\PlayerStates_Begin.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\CleanCodeSamples\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PlayerStates_Begin\bin\Debug\PlayerStates_Begin.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PlayerStates_Begin\bin\Debug\PlayerStates_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PlayerStates_Begin\bin\Debug\PlayerStates_Begin.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Best Code Practices\PeakITCleanCode\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PlayerStates_Begin\bin\Debug\PlayerStates_Begin.exe.config
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PlayerStates_Begin\bin\Debug\PlayerStates_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PlayerStates_Begin\bin\Debug\PlayerStates_Begin.pdb
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.csproj.CoreCompileInputs.cache
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.exe
+C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\PlayerStates_Begin\obj\Debug\PlayerStates_Begin.pdb
