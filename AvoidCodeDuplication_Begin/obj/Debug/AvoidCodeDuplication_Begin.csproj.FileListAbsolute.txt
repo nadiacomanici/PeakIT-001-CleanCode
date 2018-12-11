@@ -1,7 +1,0 @@
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AvoidCodeDuplication_Begin\bin\Debug\AvoidCodeDuplication_Begin.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AvoidCodeDuplication_Begin\bin\Debug\AvoidCodeDuplication_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AvoidCodeDuplication_Begin\bin\Debug\AvoidCodeDuplication_Begin.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AvoidCodeDuplication_Begin\obj\Debug\AvoidCodeDuplication_Begin.csprojResolveAssemblyReference.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AvoidCodeDuplication_Begin\obj\Debug\AvoidCodeDuplication_Begin.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AvoidCodeDuplication_Begin\obj\Debug\AvoidCodeDuplication_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\AvoidCodeDuplication_Begin\obj\Debug\AvoidCodeDuplication_Begin.pdb

@@ -1,6 +1,0 @@
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\UseEnumsInsteadOfStrings_End\bin\Debug\UseEnumsInsteadOfStrings_End.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\UseEnumsInsteadOfStrings_End\bin\Debug\UseEnumsInsteadOfStrings_End.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\UseEnumsInsteadOfStrings_End\bin\Debug\UseEnumsInsteadOfStrings_End.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\UseEnumsInsteadOfStrings_End\obj\Debug\UseEnumsInsteadOfStrings_End.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\UseEnumsInsteadOfStrings_End\obj\Debug\UseEnumsInsteadOfStrings_End.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\UseEnumsInsteadOfStrings_End\obj\Debug\UseEnumsInsteadOfStrings_End.pdb

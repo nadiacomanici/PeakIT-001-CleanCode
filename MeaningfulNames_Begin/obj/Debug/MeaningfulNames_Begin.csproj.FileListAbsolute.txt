@@ -1,7 +1,0 @@
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\MeaningfulNames_Begin\bin\Debug\MeaningfulNames_Begin.exe.config
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\MeaningfulNames_Begin\bin\Debug\MeaningfulNames_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\MeaningfulNames_Begin\bin\Debug\MeaningfulNames_Begin.pdb
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\MeaningfulNames_Begin\obj\Debug\MeaningfulNames_Begin.csprojResolveAssemblyReference.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\MeaningfulNames_Begin\obj\Debug\MeaningfulNames_Begin.csproj.CoreCompileInputs.cache
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\MeaningfulNames_Begin\obj\Debug\MeaningfulNames_Begin.exe
-C:\Users\nadi_\OneDrive\Cursuri - Trainer\AgileHub\2018.12.09 - Peak IT - Clean Code\git-PeakIT-CleanCode\MeaningfulNames_Begin\obj\Debug\MeaningfulNames_Begin.pdb
