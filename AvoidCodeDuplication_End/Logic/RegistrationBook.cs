@@ -10,7 +10,7 @@ namespace AvoidCodeDuplication_Start.Logic
     {
         private int nextId;
         private List<Person> persons;
-
+        
         public RegistrationBook()
         {
             this.persons = new List<Person>();

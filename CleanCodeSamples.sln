@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependecyInjection_Begin", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependecyInjection_End", "DependecyInjection_End\DependecyInjection_End.csproj", "{66033E34-2981-41A0-BC74-B723324114B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassSample", "AbstractClassSample\AbstractClassSample.csproj", "{36B38667-569C-499A-A099-E3F16658D064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceClassSample", "InterfaceClassSample\InterfaceClassSample.csproj", "{5B7397A5-E652-4ACF-AC1A-19697DA16434}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{66033E34-2981-41A0-BC74-B723324114B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66033E34-2981-41A0-BC74-B723324114B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66033E34-2981-41A0-BC74-B723324114B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B38667-569C-499A-A099-E3F16658D064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B38667-569C-499A-A099-E3F16658D064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B38667-569C-499A-A099-E3F16658D064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B38667-569C-499A-A099-E3F16658D064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7397A5-E652-4ACF-AC1A-19697DA16434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7397A5-E652-4ACF-AC1A-19697DA16434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7397A5-E652-4ACF-AC1A-19697DA16434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7397A5-E652-4ACF-AC1A-19697DA16434}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
